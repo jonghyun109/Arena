@@ -1,27 +1,23 @@
 <div align="center">
 
 
-
-# [<img width="60" height="60" alt="Youtube_logo" src="https://github.com/user-attachments/assets/2f48d7a4-92d7-4dba-bb7a-d8ab927d1c2a" />](https://www.youtube.com/watch?v=L4dCIkFmsZI&feature=youtu.be)  Arena
+# [<img width="60" height="60" alt="Youtube_logo" src="https://github.com/user-attachments/assets/8e31fdca-af1b-4ebc-b2c9-cdb9983454b4" />](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  ArenaJjap
 
 ### 실시간 4인 대전! 롤 챔피언으로 즐기는 팀 배틀 AOS
 
 <br>
 
-
-
-
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/64c29cfb-82ad-4673-aa4f-a88311d303ac" alt="리그 오브 레전드 챔피언" width="100%"/>
+      <img src="https://github.com/user-attachments/assets/64c29cfb-82ad-4673-aa4f-a88311d303ac" alt="리그 오브 레전드 챔피언 전투" width="100%"/>
       <br/>
-      <b>리그 오브 레전드 챔피언</b>
+      <b>리그 오브 레전드 챔피언 전투</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/0b5b7285-9e7d-4609-9c52-a9cff7c269ae" alt="로그인 화면" width="100%"/>
       <br/>
-      <b>인게임 로그인 화면</b>
+      <b>로그인 화면</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/c1bce44f-ec46-40e1-92f8-93d5591878ac" alt="아레나 게임 플레이" width="100%"/>
@@ -36,11 +32,9 @@
 <br>
 <br>
 
-⭐ **Photon PUN2 기반의 4인 매칭 시스템과 팀 나누기 구현**
+⭐ **4명의 독특한 리그 오브 레전드 챔피언으로 펼치는 전략 전투**
 
-⭐ **상태 패턴 기반 캐릭터 제어 및 전장의 안개(Fog of War) 셰이더 연출**
-
-⭐ **Firebase 인증 및 데이터베이스 연동으로 유저 정보 관리**
+⭐ **유명게임인 리그오브레전드의 모드 아레나를 기반으로 모작**
 
 </div>
 
@@ -80,9 +74,9 @@
 
 ## 🎯 게임 소개
 
-**ArenaJjap**은 League of Legends Arena를 모작한 4대4 팀전 AOS 네트워크 게임입니다.  
-Photon PUN2를 활용한 실시간 매칭 시스템과 상태 패턴 기반의 정교한 캐릭터 제어가 특징입니다.  
-전장의 안개 시스템과 Firebase 인증 연동으로 완성도 높은 멀티플레이어 경험을 제공합니다.
+**ArenaJjap**은 유명게임 리그 오브 레전드의 아레나 모드를 기반으로 모작한 **실시간 4인 대전 팀 배틀 AOS 게임**입니다.  
+Ryze, Sion, Tryndamere, Vayne 등 **4명의 독특한 리그 오브 레전드 챔피언**으로 펼치는 전략 전투를 즐길 수 있습니다.  
+Photon PUN2를 활용한 실시간 매칭 시스템, 상태 패턴 기반의 정교한 캐릭터 제어, 전장의 안개 시스템, Firebase 인증 연동으로 완성도 높은 멀티플레이어 경험을 제공합니다.
 
 <br>
 <br>
