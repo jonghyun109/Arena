@@ -14,14 +14,14 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/64c29cfb-82ad-4673-aa4f-a88311d303ac" alt="리그 오브 레전드 챔피언 전투" width="100%"/>
+      <img src="https://github.com/user-attachments/assets/64c29cfb-82ad-4673-aa4f-a88311d303ac" alt="리그 오브 레전드 챔피언" width="100%"/>
       <br/>
-      <b>리그 오브 레전드 챔피언 전투</b>
+      <b>리그 오브 레전드 챔피언</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/0b5b7285-9e7d-4609-9c52-a9cff7c269ae" alt="로그인 화면" width="100%"/>
       <br/>
-      <b>로그인 화면</b>
+      <b>인게임 로그인 화면</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/c1bce44f-ec46-40e1-92f8-93d5591878ac" alt="아레나 게임 플레이" width="100%"/>
