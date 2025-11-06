@@ -2,7 +2,7 @@
 
 
 
-# [<img width="60" height="60" alt="Youtube_logo" src="https://github.com/user-attachments/assets/2f48d7a4-92d7-4dba-bb7a-d8ab927d1c2a" />]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=L4dCIkFmsZI&feature=youtu.be))  Arena
+# [<img width="60" height="60" alt="Youtube_logo" src="https://github.com/user-attachments/assets/2f48d7a4-92d7-4dba-bb7a-d8ab927d1c2a" />](https://www.youtube.com/watch?v=L4dCIkFmsZI&feature=youtu.be)  Arena
 
 ### 실시간 4인 대전! 롤 챔피언으로 즐기는 팀 배틀 AOS
 
